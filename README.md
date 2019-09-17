@@ -1,3 +1,7 @@
+---
+permalink: /index.html
+---
+
 
 A fun front-end React app that displays a friends list with a search function.
 
